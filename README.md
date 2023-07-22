@@ -1,6 +1,4 @@
-# MERN Stack Demo Login and Registration Project with JWT and OAuth
-
-![MERN Stack Logo](https://github.com/username/repository-name/raw/main/client/public/mern-stack-logo.png)
+# MERN | Login and Registration with JWT and OAuth
 
 This is a demo project showcasing a basic login and registration system implemented using the MERN stack (MongoDB, Express.js, React, and Node.js). The project also integrates JWT (JSON Web Tokens) for authentication and 0Auth for additional authentication options.
 
@@ -41,6 +39,10 @@ The purpose of this project is to demonstrate how to build a basic login and reg
 
 - **OAuth:** An open standard for access delegation that allows users to share their resources stored on one website with another website.
 
+
+<p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40">&nbsp;  &nbsp;  &nbsp;  &nbsp;  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40">&nbsp;  &nbsp;  &nbsp;  &nbsp;  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40">&nbsp;  &nbsp;  &nbsp;  &nbsp;  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"></p>
+
+
 ## Getting Started
 
 ### Prerequisites
@@ -55,8 +57,8 @@ Before running the project, ensure you have the following installed:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/username/repository-name.git
-cd repository-name
+git clone https://github.com/SandupaAbeywardana/MERN-Login-JWT-OAuth.git
+cd MERN-Login-JWT-OAuth
 ```
 
 2. Install the backend dependencies:
@@ -98,7 +100,7 @@ npm start
 npm start
 ```
 
-The frontend will be accessible at `http://localhost:3000`, and the backend API will be available at `http://localhost:5000`.
+The frontend will be accessible at `http://localhost:8085`, and the backend API will be available at `http://localhost:3005`.
 
 ## API Endpoints
 
@@ -118,6 +120,10 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contribution
 
 Contributions to the project are welcome. If you find a bug or want to add new features, feel free to create an issue or submit a pull request.
+
+<a href="https://github.com/SandupaAbeywardana/MERN-Login-JWT-OAuth/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SandupaAbeywardana/MERN-Login-JWT-OAuth" />
+</a>
 
 ---
 
