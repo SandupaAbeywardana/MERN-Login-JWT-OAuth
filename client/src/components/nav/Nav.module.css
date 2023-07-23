@@ -1,0 +1,7 @@
+.mainNav {
+    color: white;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    padding: 25px 50px;
+}

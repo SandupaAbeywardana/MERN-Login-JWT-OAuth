@@ -1,8 +1,9 @@
-import { React, Provider } from "react";
+import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 
+import { Provider } from "react-redux";
 import { reducers } from "./redux/reducers";
 import thunk from "redux-thunk";
 import { BrowserRouter } from "react-router-dom";
